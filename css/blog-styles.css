@@ -1,0 +1,54 @@
+.blog-post{
+    background-color:orange; 
+    width:400px;
+    margin: 20px 15px;
+    border: 6px double;
+    text-align:center;
+    float:left;
+}
+
+.blog-title{
+    font-family: cursive;
+    text-align: center;
+}
+
+.blog-media-section{
+    float:none;
+    width: 380px;
+    margin: 0px auto;
+    text-align:center;
+}
+
+.blog-media{
+    border:grey inset;
+    float:none;
+    width: 380px;
+    margin: 0px auto;
+    text-align:center;
+}
+
+.blog-text{
+    font-family:cursive;
+    text-align:center;
+
+}
+
+.blog-list{
+    background-color:transparent;
+    font-family:cursive;
+    font-style: italic;
+    width:340px;
+    border:4px double;
+    margin:10px auto;
+    text-align:left;
+    
+}
+
+#blog-post-1{
+    background-color:lightblue;
+}
+    
+#blog-post-2{
+    background-color:red;
+    
+}
